@@ -1,0 +1,1 @@
+ C:\\Users\\swm48\\Documents\\scoutingapp2025\\scoutingapp2025\\.dart_tool\\flutter_build\\bdca694916c2c34282a739046ca5904f\\dart_build_result.json: 

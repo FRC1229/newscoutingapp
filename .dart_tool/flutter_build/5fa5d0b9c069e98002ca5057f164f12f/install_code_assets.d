@@ -1,0 +1,1 @@
+ C:\\Users\\swm48\\Documents\\scoutingapp2025\\scoutingapp2025\\.dart_tool\\flutter_build\\5fa5d0b9c069e98002ca5057f164f12f\\native_assets.json: 

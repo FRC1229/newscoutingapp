@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\swm48\Documents\scoutingapp2025\scoutingapp2025\build\windows\x64\CMakeFiles\2936dc7083927f7bf3f69f98ab8941e5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9990FE74-FBF5-327C-967D-10A48B60A1B1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
