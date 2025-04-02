@@ -29,9 +29,15 @@ while True:
 
     ret, frame = cap.read()
     detect = cv.QRCodeDetector()
-    value, points, stright_qr=detect.detectAndDecode(frame)
+    try:
+        value, points, stright_qr=detect.detectAndDecode(frame)
+    except:
+        if points == None or "e" in str(points[0][0][0]):
+            points = [[[341., 268.],[ 87., 183.],[ 89., 110.],[335.,   0.]]]
     value = value.replace("false", "No")
     value = value.replace("true", "Yes")
+
+    
 
     if (len(value) > 0  and lastValue != value):
         lastValue = value
